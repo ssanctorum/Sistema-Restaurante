@@ -8,6 +8,12 @@ import org.restaurante.model.Pedido;
 import javax.swing.*;
 import java.util.ArrayList;
 
+/*
+Aluno: Warlley
+Curso: ADS
+Turma: T8
+ */
+
 public class Main {
     public static void main(String[] args) {
 
